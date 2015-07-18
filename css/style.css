@@ -23,8 +23,8 @@ input[type="submit"]:focus, input[type="button"]:focus { outline : none; }
 
 #container {
     background: url('../images/container.png') no-repeat;
-    width: 754px;
-    height: 370px;
+    width: 607px;
+    height: 500px;
     margin: 20px auto;
     padding: 50px 0;
     overflow: hidden;
